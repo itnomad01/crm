@@ -2,7 +2,7 @@
 
 Установка:
 Скачайте проект, выполнив команду
-- git clone https://github.com/deyen01/crm.git
+- git clone https://github.com/itnomad01/crm.git
 
 обновите зависимости:
 - composer update
